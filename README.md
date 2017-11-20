@@ -1,4 +1,4 @@
-# file.hakr.xyz
+# files.hakr.xyz
 
 ```bash
 git pull
