@@ -1,6 +1,6 @@
 #!/bin/bash
 
-file_name = "hello.txt"
+file_name="hello.txt"
 
 echo "Hello World"
 touch ~/$file_name
